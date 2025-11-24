@@ -39,7 +39,7 @@ Interactive Power BI sales & operations dashboard analyzing revenue, customers, 
 🔹 **[Blinkit Sales Analysis Dashboard – Power BI](https://github.com/ganesh1645/Blinkit_sales_analysis_dashboard)**  
 Dashboard analyzing Blinkit’s delivery patterns, customer behavior, order performance, and business insights.
 
-🔹 **[OTT Domain Data Analytics – Python](https://github.com/ganesh1645/-OTT-Domain-Data-Analytics)**  
+🔹 **[OTT Domain Data Analytics – Python](https://github.com/ganesh1645/OTT_Domain_Data_Analytics)**  
 Python-based analytics project generating insights on user behavior, content trends, and engagement.
 
 ---
